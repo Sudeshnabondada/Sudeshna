@@ -1,0 +1,42 @@
+.x{
+	background-color: grey;
+}
+.col-md-2{
+	background-color: grey;
+	height:100px;
+}
+.col-md-6{
+	background-color: grey;
+	height:100px;
+	font-size: 44px;
+	font-color:green;
+}
+.col-md-1.a{
+	background-color: grey;
+	height:100px;
+}
+.col-md-1.b{
+	background-color: grey;
+	height:100px;
+}
+.col-md-1.c{
+	background-color: grey;
+	height:100px;
+}
+.col-md-1.d{
+	background-color: grey;
+	height:100px;
+}
+.col-md-3{
+	background-color:yellow;
+	height:400px;
+	font-size: 28px;
+	font-color:green;
+
+}
+.col-md-9{
+	background-color: darkGrey;
+	color:black;
+	font-size:18px;
+	height:400px;
+}
